@@ -77,6 +77,8 @@
 - [IP地址信息查询](https://ipstack.com) - 查IP对应的具体信息，适用比较频繁的是查询对应经纬度 [`Freegeoip`](https://github.com/fiorix/freegeoip)
 - [简悦](https://github.com/Kenshin/simpread) - 让你瞬间进入沉浸式阅读的扩展
 - [Xmind | 中文官网](https://www.xmind.cn/) - 一款全新的思维导图软件
+- [iTerm2](https://iterm2.com/) - `MacOS`一款神奇的Mac终端
+- [oh-my-zsh](https://ohmyz.sh/) - 搭配iTerm2使用，具有很好的主题扩展
 
 <h3 id='chorme-plugins'>Chorme插件</h3>
 
@@ -100,4 +102,9 @@
 - [git - 简易指南](http://www.bootcss.com/p/git-guide/) - 助你开始使用 git 的简易指南，木有高深内容
 - [SmartGit](https://www.syntevo.com/smartgit/) - 工具如其名，使用起来very smart
 - [TortoiseGit](https://tortoisegit.org/)
+
+## Support the project ⭐
+如果你感觉很棒，请 star 或者 fork 仓库支持我，感谢老铁！这有助于我们了解和发展社区。
+
+![image](https://raw.githubusercontent.com/botpress/botpress/master/.github/assets/star_us.gif)
 
