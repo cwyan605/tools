@@ -19,7 +19,7 @@
 - [Chrome插件](#chorme-plugins)
 - [面试](#interview)
 - [Git](#git)
-- [服务端](#servers)
+- [Blog](#blog)
 - [设计/交互](#ux)
 - [其他](#other)
 - [小结](#summary)
@@ -29,7 +29,7 @@
 
 <h3 id="css">CSS</h3>
 
-- [CSS版本支持](https://caniuse.com/) - 检查css属性目前支持的所有浏览器版本
+- [CSS版本支持](https://caniuse.com/) - 检查CSS属性目前支持的所有浏览器版本
 - [Bootstrap](https://v2.bootcss.com/index.html) - 简洁、直观、强悍的前端开发框架，让web开发更迅速、简单
 - [学习CSS布局](http://zh.learnlayout.com/) - 网站布局领域的 CSS 基础
 - [Sass](https://www.sasscss.com/) - 成熟、稳定、强大的 CSS 扩展语言解析器
@@ -42,6 +42,8 @@
 
 <h3 id="css">JS</h3>
 
+- [Lodash](https://github.com/lodash/lodash/wiki/FP-Guide) - 老大师[`中文文档`](https://www.lodashjs.com/docs/4.17.5.html)，一个一致性、模块化、高性能的 JavaScript 实用工具库 
+- [D3.js](https://github.com/d3/d3) - `Data-Driven Documents` 用于数据可视化的 JavaScript 函数库
 - [Chartjs](https://chartjs.bootcss.com/) - 为设计和开发人员准备的简单、灵活的 JavaScript 图表工具
 - [Airbnb JavaScript](https://github.com/airbnb/javascript) - Airbnb JavaScript Style Guide
 - [jQuery插件库](http://www.jq22.com/) - 较丰富的jquery插件库，但有些插件框架需要付费充积分下载，喜欢就支持
@@ -57,12 +59,15 @@
 <h3 id="api">速查API</h3>
 
 - [jQuery API 中文文档 | 在线手册](http://jquery.cuishifeng.cn/)
+- [Zepto | 中文版](http://www.css88.com/doc/zeptojs_api/#)
 - [Vue](https://cn.vuejs.org/v2/guide/)
 - [Vuex](https://vuex.vuejs.org) - 状态管理器
 - [Vue Router](https://router.vuejs.org) - 路由管理器
 - [Vue-CLI](https://cli.vuejs.org/) - 项目搭载脚手架
 - [Vim实操教程](https://github.com/dofy/learn-vim)
 - [TypeScript | 中文手册](https://typescript.bootcss.com/)
+- [Markdown 入门语法参考](http://xianbai.me/learn-md/index.html)
+- [Lodash | 中文文档](https://www.lodashjs.com/docs/4.17.5.html)
 
 <h3 id="icon">图标库</h3>
 
@@ -73,12 +78,11 @@
 
 - [MacOS微信小助手](https://github.com/computeracy/WeChatPlugin-MacOS) - 装X利器，支持自动回复、拦截撤回消息、免认证登录、多开用户等功能
 - [Mac包管理工具](https://brew.sh/) - `Homebrew`搭建安装环境及工具
-- [Markdown 入门语法参考](http://xianbai.me/learn-md/index.html) - 适合Markdown初学者学习参考速查
-- [IP地址信息查询](https://ipstack.com) - 查IP对应的具体信息，适用比较频繁的是查询对应经纬度 [`Freegeoip`](https://github.com/fiorix/freegeoip)
+- [IP地址解析](https://ipstack.com) - 查IP对应的具体信息，适用比较频繁的是查询对应经纬度 [`Freegeoip`](https://github.com/fiorix/freegeoip)
 - [简悦](https://github.com/Kenshin/simpread) - 让你瞬间进入沉浸式阅读的扩展
 - [Xmind | 中文官网](https://www.xmind.cn/) - 一款全新的思维导图软件
 - [iTerm2](https://iterm2.com/) - `MacOS`一款神奇的Mac终端
-- [oh-my-zsh](https://ohmyz.sh/) - 搭配iTerm2使用，具有很好的主题扩展
+- [Oh-my-zsh](https://ohmyz.sh/) - 搭配iTerm2使用，具有很好的主题扩展
 
 <h3 id='chorme-plugins'>Chorme插件</h3>
 
@@ -88,7 +92,6 @@
 
 <h3 id='interview'>面试</h3>
 
-- [面试排序算法总结](https://github.com/hustcc/JS-Sorting-Algorithm) - 十大经典排序算法，分别使用JavaScript、Python、Go、Java、PHP实现
 - [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 - [前端开发面试题大收集，前端面试集锦](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
 - [关于Python的面试题](https://github.com/computeracy/interview_python)
@@ -98,10 +101,28 @@
 
 <h3 id='git'>Git</h3>
 
+- [SmartGit](https://www.syntevo.com/smartgit/) - 跨平台，工具如其名，使用起来very smart
+- [Gitkraken](https://www.gitkraken.com/git-client) - 跨平台，主题骚气，正在探索是否有SmartGit更Smart
 - [Pro Git](https://progit.bootcss.com/) - 详细的 Git 指南，主要介绍了 Git 的使用基础和原理，让你从 Git 初学者成为 Git 专家。
-- [git - 简易指南](http://www.bootcss.com/p/git-guide/) - 助你开始使用 git 的简易指南，木有高深内容
-- [SmartGit](https://www.syntevo.com/smartgit/) - 工具如其名，使用起来very smart
-- [TortoiseGit](https://tortoisegit.org/)
+- [Git - 简易指南](http://www.bootcss.com/p/git-guide/) - 助你开始使用 git 的简易指南，木有高深内容
+- [TortoiseGit](https://tortoisegit.org/) - Window系统专用
+
+<h3 id="blog">Blog</h3>
+
+- [Hexo](https://hexo.io/zh-cn/) - 快速、简洁且高效的博客框架
+- Hexo Themes 一些比较不错的hexo主题
+	- [Hexo-theme-next](https://github.com/iissnan/hexo-theme-next)
+	- [Hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
+	- [Hexo-theme-tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
+	- [Hexo-theme-new-vno](https://github.com/monniya/hexo-theme-new-vno)
+	- [Hexo-theme-miho](https://github.com/WongMinHo/hexo-theme-miho)
+  
+
+<h3 id="other">其他</h3>
+
+- [LeetCode](https://leetcode-cn.com/) - 算法极客社区，包括题库、竞赛等
+- [排序算法总结](https://github.com/hustcc/JS-Sorting-Algorithm) - 十大经典排序算法，分别使用JavaScript、Python、Go、Java、PHP实现
+
 
 ## Support the project ⭐
 如果你感觉很棒，请 star 或者 fork 仓库支持我，感谢老铁！这有助于我们了解和发展社区。
