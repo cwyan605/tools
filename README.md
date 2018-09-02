@@ -81,6 +81,7 @@
 - [IP地址解析](https://ipstack.com) - 查IP对应的具体信息，适用比较频繁的是查询对应经纬度 [`Freegeoip`](https://github.com/fiorix/freegeoip)
 - [简悦](https://github.com/Kenshin/simpread) - 让你瞬间进入沉浸式阅读的扩展
 - [Xmind | 中文官网](https://www.xmind.cn/) - 一款全新的思维导图软件
+- [KityMinder 百度脑图](http://naotu.baidu.com) - 一款在线的脑图编辑工具, 免安装、云存储、云盘分享；百度 FEX 团队的又一力作
 - [iTerm2](https://iterm2.com/) - `MacOS`一款神奇的Mac终端
 - [Oh-my-zsh](https://ohmyz.sh/) - 搭配iTerm2使用，具有很好的主题扩展
 
@@ -98,6 +99,7 @@
 - [技术面试需要掌握的基础知识整理](https://github.com/computeracy/Interview-Notebook)
 - [2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
 - [会动的简历](https://github.com/jirengu-inc/animating-resume) - 酷炫的求职简历
+- [全屏简历](http://www.flqin.com/) - 全屏滚动，简洁清晰
 
 <h3 id='git'>Git</h3>
 
