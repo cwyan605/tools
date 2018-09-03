@@ -131,3 +131,7 @@
 
 ![image](https://raw.githubusercontent.com/botpress/botpress/master/.github/assets/star_us.gif)
 
+## License
+
+The MIT license.
+
