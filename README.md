@@ -124,6 +124,7 @@
 
 - [LeetCode](https://leetcode-cn.com/) - 算法极客社区，包括题库、竞赛等
 - [排序算法总结](https://github.com/hustcc/JS-Sorting-Algorithm) - 十大经典排序算法，分别使用JavaScript、Python、Go、Java、PHP实现
+- [图片登录](https://www.pixelpin.io/) - 登录新玩法 👍 自定义图片密码点实现登录，支持上传图片
 
 
 ## Support the project ⭐
