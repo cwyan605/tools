@@ -122,6 +122,7 @@
 
 <h3 id="other">其他</h3>
 
+- [Stackoverflow](https://stackoverflow.com/) - 比较全面、专业的技术hack问题解答，度娘上找不到答案的就来Stack Overflow，CET4应该够用
 - [LeetCode](https://leetcode-cn.com/) - 算法极客社区，包括题库、竞赛等
 - [排序算法总结](https://github.com/hustcc/JS-Sorting-Algorithm) - 十大经典排序算法，分别使用JavaScript、Python、Go、Java、PHP实现
 - [图片登录](https://www.pixelpin.io/) - 登录新玩法 👍 自定义图片密码点实现登录，支持上传图片
@@ -134,5 +135,4 @@
 
 ## License
 
-The MIT license.
-
+![image](https://camo.githubusercontent.com/b0224997019dec4e51d692c722ea9bee2818c837/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6c6963656e73652f6d6173686170652f6170697374617475732e737667)
