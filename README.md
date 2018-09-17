@@ -1,8 +1,8 @@
 # 工具集 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-项目主要收集学习开发中使用过的工具或者类库等。还包括一些黑科技，插件等等。
+项目主要收集学习开发中使用过的工具或者类库等，还包括一些黑科技、插件等等。
 
-所列项目属于亲测有效, 欢迎大家补充分享 谢谢！
+欢迎大家补充分享，谢谢！
 
 > 持续更新中 ~
 
@@ -71,6 +71,7 @@
 
 <h3 id="icon">图标库</h3>
 
+- [Icons8](https://icons8.com/) - `跨平台``多语言`图标社区。除了大量免费图标外，还有照片、音乐等资源的分享
 - [阿里矢量图标库](http://www.iconfont.cn/) - 海量图标可按主题查找，解决猿们不懂设计的尴尬
 - [Font Awesome图标集](http://www.bootcss.com/p/font-awesome/) - 完美的图标字体只为Bootstrap设计
 
@@ -84,6 +85,8 @@
 - [KityMinder 百度脑图](http://naotu.baidu.com) - 一款在线的脑图编辑工具, 免安装、云存储、云盘分享；百度 FEX 团队的又一力作
 - [iTerm2](https://iterm2.com/) - `MacOS`一款神奇的Mac终端
 - [Oh-my-zsh](https://ohmyz.sh/) - 搭配iTerm2使用，具有很好的主题扩展
+- [MSDN I Tell You](https://msdn.itellyou.cn/) - 资源站点，包含操作系统、部分开发工具等
+- [Luyten](https://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Luyten.shtml) - Jar反编译工具，功能上和 [JD-GUI](http://jd.benow.ca/) 基本一致，可能多一些主题可供选择
 
 <h3 id='chorme-plugins'>Chorme插件</h3>
 
@@ -122,7 +125,7 @@
 
 <h3 id="other">其他</h3>
 
-- [Stackoverflow](https://stackoverflow.com/) - 比较全面、专业的技术hack问题解答，度娘上找不到答案的就来Stack Overflow，CET4应该够用
+- [StackOverflow](https://stackoverflow.com/) - 比较全面、专业的技术hack问题解答，度娘上找不到答案的就来Stack Overflow，CET4应该够用
 - [LeetCode](https://leetcode-cn.com/) - 算法极客社区，包括题库、竞赛等
 - [排序算法总结](https://github.com/hustcc/JS-Sorting-Algorithm) - 十大经典排序算法，分别使用JavaScript、Python、Go、Java、PHP实现
 - [图片登录](https://www.pixelpin.io/) - 登录新玩法 👍 自定义图片密码点实现登录，支持上传图片
