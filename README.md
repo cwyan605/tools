@@ -12,20 +12,21 @@
 
 - [CSS](#css)
 - [JS](#javascript)
+- [API](#api)
+- [微信小程序](#wxmini)
 - [Node](#node)
-- [速查API](#api)
-- [图标库](#icon)
-- [工具/软件](#tools)
-- [Chrome插件](#chorme-plugins)
-- [面试](#interview)
+- [ICONS](#icon)
+- [Tools / Software](#tools)
+- [Chrome Plugins](#chorme-plugins)
+- [Interview](#interview)
 - [Git](#git)
 - [Blog](#blog)
-- [设计/交互](#ux)
 - [其他](#other)
 - [小结](#summary)
 - [TODO](#todo)
 
 ## 正文
+
 
 <h3 id="css">CSS</h3>
 
@@ -48,16 +49,11 @@
 - [Airbnb JavaScript](https://github.com/airbnb/javascript) - Airbnb JavaScript Style Guide
 - [jQuery插件库](http://www.jq22.com/) - 较丰富的jquery插件库，但有些插件框架需要付费充积分下载，喜欢就支持
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn) - JS资源大全，茶余饭后翻阅一下
+- [JS数据可视化库](https://mp.weixin.qq.com/s/jdPgWwSEVTX06zJvXlsmOg) - 前端之巅公众号小编吐血整理, 非常全面，赞一波👍
 
-<h3 id="node">Node</h3>
+<h3 id="api">API</h3>
 
-- [狼叔：如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly) - 学习ing，Node入门学习指导
-- [一起学习 | Node.js](https://github.com/nswbmw/N-blog)
-- [Node.js | 包教不包会](https://github.com/alsotang/node-lessons)
-- [全栈工程师之路 | Node.js](http://i5ting.github.io/nodejs-fullstack/) - Node全栈学习经验总结
-
-<h3 id="api">速查API</h3>
-
+- [API · 小程序](https://developers.weixin.qq.com/miniprogram/dev/)
 - [jQuery API 中文文档 | 在线手册](http://jquery.cuishifeng.cn/)
 - [Zepto | 中文版](http://www.css88.com/doc/zeptojs_api/#)
 - [Vue](https://cn.vuejs.org/v2/guide/)
@@ -69,13 +65,31 @@
 - [Markdown 入门语法参考](http://xianbai.me/learn-md/index.html)
 - [Lodash | 中文文档](https://www.lodashjs.com/docs/4.17.5.html)
 
-<h3 id="icon">图标库</h3>
+<h3 id="wxmini">微信小程序</h3>
+
+- UI组件库
+	
+	- [WeUI WXSS](https://github.com/Tencent/weui-wxss) - 腾讯官方UI组件库WeUI的小程序版，提供了跟微信界面风格一致的用户体验。
+	- [iView WeApp](https://weapp.iviewui.com/) - 由TalkingData发布的一款高质量的基于Vue.js组件库，iView weapp是它们的小程序版本。
+	- [MinUI](https://meili.github.io/min/docs/minui/) - 由蘑菇街前端开发团队开发，覆盖小程序原生框架及主流框架等，并且提供了专门的命令行工具。
+	- [Wux WeApp](https://wux-weapp.github.io/wux-weapp/#/) - 非常不错的微信小程序自定义 UI 组件库，组件比较丰富，值得使用。
+	- [ZanUI WeApp](https://youzan.github.io/vant-weapp/#/intro) - 是有赞移动 Web UI 规范 ZanUI 的小程序现实版本，结合了微信的视觉规范，为用户提供更加统一的使用感受。
+
+<h3 id="node">Node</h3>
+
+- [狼叔：如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly) - 学习ing，Node入门学习指导
+- [一起学习 | Node.js](https://github.com/nswbmw/N-blog)
+- [Node.js | 包教不包会](https://github.com/alsotang/node-lessons)
+- [全栈工程师之路 | Node.js](http://i5ting.github.io/nodejs-fullstack/) - Node全栈学习经验总结
+
+
+<h3 id="icon">ICONS</h3>
 
 - [Icons8](https://icons8.com/) - `跨平台``多语言`图标社区。除了大量免费图标外，还有照片、音乐等资源的分享
 - [阿里矢量图标库](http://www.iconfont.cn/) - 海量图标可按主题查找，解决猿们不懂设计的尴尬
 - [Font Awesome图标集](http://www.bootcss.com/p/font-awesome/) - 完美的图标字体只为Bootstrap设计
 
-<h3 id='tools'>工具/软件</h3>
+<h3 id='tools'>Tools / Software</h3>
 
 - [MacOS微信小助手](https://github.com/computeracy/WeChatPlugin-MacOS) - 装X利器，支持自动回复、拦截撤回消息、免认证登录、多开用户等功能
 - [Mac包管理工具](https://brew.sh/) - `Homebrew`搭建安装环境及工具
@@ -88,13 +102,13 @@
 - [MSDN I Tell You](https://msdn.itellyou.cn/) - 资源站点，包含操作系统、部分开发工具等
 - [Luyten](https://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Luyten.shtml) - Jar反编译工具，功能上和 [JD-GUI](http://jd.benow.ca/) 基本一致，可能多一些主题可供选择
 
-<h3 id='chorme-plugins'>Chorme插件</h3>
+<h3 id='chorme-plugins'>Chorme Plugins</h3>
 
 - [Octotree](https://github.com/computeracy/octotree) - Github项目文件结构显示器
 - [百度云高速下载器](https://github.com/high-speed-downloader/high-speed-downloader) - 百度云提速下载(取决于你的网速)，摆脱限速尴尬
 - [Emoji](https://github.com/Kenshin/emoji) - Emoji扩展，支持中文语义化
 
-<h3 id='interview'>面试</h3>
+<h3 id='interview'>Interview</h3>
 
 - [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
 - [前端开发面试题大收集，前端面试集锦](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
