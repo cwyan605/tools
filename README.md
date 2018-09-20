@@ -85,7 +85,7 @@
 
 <h3 id="icon">ICONS</h3>
 
-- [Icons8](https://icons8.com/) - `跨平台``多语言`图标社区。除了大量免费图标外，还有照片、音乐等资源的分享
+- [Icons8](https://icons8.com/) - `跨平台` `多语言`图标社区。除了大量免费图标外，还有照片、音乐等资源的分享
 - [阿里矢量图标库](http://www.iconfont.cn/) - 海量图标可按主题查找，解决猿们不懂设计的尴尬
 - [Font Awesome图标集](http://www.bootcss.com/p/font-awesome/) - 完美的图标字体只为Bootstrap设计
 
