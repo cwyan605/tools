@@ -75,6 +75,10 @@
 	- [Wux WeApp](https://wux-weapp.github.io/wux-weapp/#/) - 非常不错的微信小程序自定义 UI 组件库，组件比较丰富，值得使用。
 	- [ZanUI WeApp](https://youzan.github.io/vant-weapp/#/intro) - 是有赞移动 Web UI 规范 ZanUI 的小程序现实版本，结合了微信的视觉规范，为用户提供更加统一的使用感受。
 
+- [WeCOS](https://github.com/tencentyun/wecos) - 微信小程序 COS 瘦身解决方案
+- [WeCOS-UGC-DEMO](https://github.com/tencentyun/wecos-ugc-upload-demo) - 微信小程序用户资源上传 COS 示例
+ 
+
 <h3 id="node">Node</h3>
 
 - [狼叔：如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly) - 学习ing，Node入门学习指导
