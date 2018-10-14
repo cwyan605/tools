@@ -105,6 +105,9 @@
 - [Oh-my-zsh](https://ohmyz.sh/) - 搭配iTerm2使用，具有很好的主题扩展
 - [MSDN I Tell You](https://msdn.itellyou.cn/) - 资源站点，包含操作系统、部分开发工具等
 - [Luyten](https://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Luyten.shtml) - Jar反编译工具，功能上和 [JD-GUI](http://jd.benow.ca/) 基本一致，可能多一些主题可供选择
+- [语雀](https://www.yuque.com/) - 2018年04月份 阿里开源的内部在线知识库、团队协作工具
+- [Taskbook](https://github.com/klauscfhq/taskbook) - 任务管理的命令行小工具
+- [新华字典API](https://github.com/pwxcoo/chinese-xinhua) - 新华字典API：中华新华字典数据库。包括歇后语，成语，词语，汉字
 
 <h3 id='chorme-plugins'>Chorme Plugins</h3>
 
