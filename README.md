@@ -75,7 +75,7 @@
 	- [Wux WeApp](https://wux-weapp.github.io/wux-weapp/#/) - 非常不错的微信小程序自定义 UI 组件库，组件比较丰富，值得使用。
 	- [ZanUI WeApp](https://youzan.github.io/vant-weapp/#/intro) - 是有赞移动 Web UI 规范 ZanUI 的小程序现实版本，结合了微信的视觉规范，为用户提供更加统一的使用感受。
 
-- [WeCOS](https://github.com/tencentyun/wecos) - 微信小程序 COS 瘦身解决方案
+- [WeCOS](https://github.com/tencentyun/wecos) - 微信小程序 COS 瘦身解决方案。比如图片占用大量资源，可以选择此方案避免
 - [WeCOS-UGC-DEMO](https://github.com/tencentyun/wecos-ugc-upload-demo) - 微信小程序用户资源上传 COS 示例
  
 
@@ -105,8 +105,8 @@
 - [Oh-my-zsh](https://ohmyz.sh/) - 搭配iTerm2使用，具有很好的主题扩展
 - [MSDN I Tell You](https://msdn.itellyou.cn/) - 资源站点，包含操作系统、部分开发工具等
 - [Luyten](https://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Luyten.shtml) - Jar反编译工具，功能上和 [JD-GUI](http://jd.benow.ca/) 基本一致，可能多一些主题可供选择
-- [语雀](https://www.yuque.com/) - 2018年04月份 阿里开源的内部在线知识库、团队协作工具
-- [Taskbook](https://github.com/klauscfhq/taskbook) - 任务管理的命令行小工具
+- [语雀](https://www.yuque.com/) - 2018年04月份 阿里开源的内部在线知识库、团队协作工具。可分公、私两种知识库，支持外链访问
+- [Taskbook](https://github.com/klauscfhq/taskbook) - 任务管理的命令行小工具，命令行极客的首选
 - [新华字典API](https://github.com/pwxcoo/chinese-xinhua) - 新华字典API：中华新华字典数据库。包括歇后语，成语，词语，汉字
 
 <h3 id='chorme-plugins'>Chorme Plugins</h3>
@@ -127,11 +127,13 @@
 
 <h3 id='git'>Git</h3>
 
-- [SmartGit](https://www.syntevo.com/smartgit/) - 跨平台，工具如其名，使用起来very smart
+- [GUI Clients](https://git-scm.com/downloads/guis/) - 官方推荐图形客户端/Git可视化工具集，免费付费的都有，多平台可选择
+- [SmartGit](https://www.syntevo.com/smartgit/) - `推荐使用`跨平台，工具如其名，使用起来very smart
 - [Gitkraken](https://www.gitkraken.com/git-client) - 跨平台，主题骚气，正在探索是否有SmartGit更Smart
-- [Pro Git](https://progit.bootcss.com/) - 详细的 Git 指南，主要介绍了 Git 的使用基础和原理，让你从 Git 初学者成为 Git 专家。
-- [Git - 简易指南](http://www.bootcss.com/p/git-guide/) - 助你开始使用 git 的简易指南，木有高深内容
 - [TortoiseGit](https://tortoisegit.org/) - Window系统专用
+- [Pro Git](https://progit.bootcss.com/) - 详细的 Git 指南，主要介绍了 Git 的使用基础和原理，让你从 Git 初学者成为 Git 专家。
+- [Git - 简易指南](http://www.bootcss.com/p/git-guide/) - 助你开始使用 Git 的简易指南，木有高深内容
+- [Git - 学习资料](https://github.com/xirong/my-git) - 主要收录有关 Git 的新手入门、客户端、书籍、实践经验等学习资料，可以取所需
 
 <h3 id="blog">Blog</h3>
 
