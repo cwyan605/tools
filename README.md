@@ -168,6 +168,7 @@
 - [排序算法总结](https://github.com/hustcc/JS-Sorting-Algorithm) - 十大经典排序算法，分别使用JavaScript、Python、Go、Java、PHP实现
 - [图片登录](https://www.pixelpin.io/) - 登录新玩法 👍 自定义图片密码点实现登录，支持上传图片
 - [图灵社区](http://www.ituring.com.cn/book/) - 技术书籍及热门文章推荐，可选择购买电子书、纸质书 👊 **技术改变世界 阅读塑造人生**
+- [重构第二版](https://files-cdn.cnblogs.com/files/rongfengliang/Refactoring_Second_Edition.pdf) - PDF格式，重构第二版是以JS为示例代码开展的，对前端小伙伴很友好，不过重点是思想思路了，代码洁癖者必看🤔
 
 
 ## Support the project ⭐
