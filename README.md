@@ -13,7 +13,8 @@
 - [CSS](#css)
 - [JS](#javascript)
 - [API](#api)
-- [微信小程序](#wxmini)
+- [Vue](#vue)
+- [WeChat Mini Program (微信小程序)](#wxmini)
 - [Node](#node)
 - [ICONS](#icon)
 - [Tools / Software](#tools)
@@ -59,18 +60,28 @@
 - [jQuery API 中文文档 | 在线手册](http://jquery.cuishifeng.cn/)
 - [Zepto | 中文版](http://www.css88.com/doc/zeptojs_api/#)
 - [Vue](https://cn.vuejs.org/v2/guide/)
-- [Vuex](https://vuex.vuejs.org) - 状态管理器
-- [Vue Router](https://router.vuejs.org) - 路由管理器
-- [Vue-CLI](https://cli.vuejs.org/) - 项目搭载脚手架
 - [Vim实操教程](https://github.com/dofy/learn-vim)
 - [TypeScript | 中文手册](https://typescript.bootcss.com/)
 - [Markdown 入门语法参考](http://xianbai.me/learn-md/index.html)
 - [Lodash | 中文文档](https://www.lodashjs.com/docs/4.17.5.html)
 
+<h3 id="vue">Vue</h3>
+
+- [Vue](https://cn.vuejs.org/v2/guide/) - Api
+- [Vuex](https://vuex.vuejs.org) - 状态管理器
+- [Vue Router](https://router.vuejs.org) - 路由管理器
+- [Vue-Cli](https://cli.vuejs.org/) - 项目搭建脚手架
+- UI Framework For Vue :
+	- [Element](http://element-cn.eleme.io) - 饿了么前端开源UI框架，基于Vue2.0的PC桌面组件库。 👉 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
+	- [IView](https://www.iviewui.com/) - 主要应用于PC中后台产品，
+	由TalkingData开发维护。 👉 [admin](https://admin.iviewui.com/home)
+	- [Vue-Beauty](https://fe-driver.github.io/vue-beauty/#/components/start) - Vue + Ant-Design的PC端组件库，注意小心Ant-Design的圣诞鬼畜事件 😂
+	- [Vue-Strap](http://yuche.github.io/vue-strap/) - Vue + Bootstrap, 有点想念JQuery了
+	- [Cube-UI](https://didi.github.io/cube-ui/#/zh-CN) - 基于 Vue.js 实现的移动端组件库
+	
 <h3 id="wxmini">微信小程序</h3>
 
-- UI组件库
-	
+- UI组件库 :
 	- [WeUI WXSS](https://github.com/Tencent/weui-wxss) - 腾讯官方UI组件库WeUI的小程序版，提供了跟微信界面风格一致的用户体验。
 	- [iView WeApp](https://weapp.iviewui.com/) - 由TalkingData发布的一款高质量的基于Vue.js组件库，iView weapp是它们的小程序版本。
 	- [MinUI](https://meili.github.io/min/docs/minui/) - 由蘑菇街前端开发团队开发，覆盖小程序原生框架及主流框架等，并且提供了专门的命令行工具。
@@ -94,6 +105,8 @@
 - [Icons8](https://icons8.com/) - `跨平台` `多语言`图标社区。除了大量免费图标外，还有照片、音乐等资源的分享
 - [阿里矢量图标库](http://www.iconfont.cn/) - 海量图标可按主题查找，解决猿们不懂设计的尴尬
 - [Font Awesome图标集](http://www.bootcss.com/p/font-awesome/) - 完美的图标字体只为Bootstrap设计
+- [IcoMoon](https://icomoon.io/app/#/select) - 支持下载图标字体
+- [Base64-decoder-encoder](https://www.motobit.com/util/base64-decoder-encoder.asp) - 用于将图标转化为base64的字体编译工具 @font-face
 
 <h3 id='tools'>Tools / Software</h3>
 
