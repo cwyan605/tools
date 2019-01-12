@@ -1,6 +1,6 @@
 # 工具集 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
-项目主要收集学习开发中使用过的工具或者类库等，还包括一些黑科技、插件等等。
+🛠 📙 项目主要收集学习开发中使用过的工具、类库以及优秀的开源项目等，还包括一些黑科技、插件等等。✍️ 📋
 
 欢迎大家补充分享，谢谢！
 
@@ -11,18 +11,18 @@
 <h2 id="catalog">目录</h2>
 
 - [CSS](#css)
-- [JS](#javascript)
+- [JS](#js)
 - [API](#api)
 - [Vue](#vue)
 - [WeChat Mini Program (微信小程序)](#wxmini)
 - [Node](#node)
-- [ICONS](#icon)
+- [Icons](#icon)
 - [Tools / Software](#tools)
 - [Chrome Plugins](#chorme-plugins)
-- [Interview](#interview)
 - [Git](#git)
 - [Blog](#blog)
 - [Algorithm(算法)](#algorithm)
+- [Interview](#interview)
 - [其他](#other)
 - [小结](#summary)
 - [TODO](#todo)
@@ -43,28 +43,41 @@
 - [Flex-Grammer](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html) - flex语法篇，初步入门到了解
 - [Flex-Examples](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html) - flex实例篇，深入理解到应用
 - [鑫旭博客](https://www.zhangxinxu.com/wordpress/category/css/) - CSS大牛博客，产量惊人
+- [NES.css](https://nostalgic-css.github.io/NES.css/) - NES游戏机专用CSS，满满的任天堂回忆
+- [CSS-Inspiration](https://chokcoco.github.io/CSS-Inspiration/#/./init) - 寻找CSS 的灵感，以分类的形式，展示不同 CSS 属性或者不同的课题使用 CSS 来解决的各种方法。
 
 
-<h3 id="css">JS</h3>
 
-- [Lodash](https://github.com/lodash/lodash/wiki/FP-Guide) - 老大师[`中文文档`](https://www.lodashjs.com/docs/4.17.5.html)，一个一致性、模块化、高性能的 JavaScript 实用工具库 
+<h3 id="js">JS</h3>
+
+- [30-seconds-of-code](https://30secondsofcode.org/) - 收集了有用的JavaScript代码片段，大量函数式编程实例
+- [33-js-concepts](https://github.com/leonardomso/33-js-concepts) - 33个JS语言核心概念 ( FEs should know )
+- [Airbnb JavaScript](https://github.com/airbnb/javascript) - Airbnb爱彼迎JS代码书写风格指南，适用于代码洁癖爱好者
+-  [Lodash](https://github.com/lodash/lodash/wiki/FP-Guide) - 老大师[`api文档`](https://www.lodashjs.com/docs/4.17.5.html)，一个一致性、模块化、高性能的 JavaScript 实用工具库
+- [Cryptojs](https://github.com/brix/crypto-js) - JS加密标准函数库
+- [Clipboardjs](https://clipboardjs.com/) - JS粘贴板工具函数库
 - [D3.js](https://github.com/d3/d3) - `Data-Driven Documents` 用于数据可视化的 JavaScript 函数库
-- [Chartjs](https://chartjs.bootcss.com/) - 为设计和开发人员准备的简单、灵活的 JavaScript 图表工具
-- [Airbnb JavaScript](https://github.com/airbnb/javascript) - Airbnb JavaScript Style Guide
+- [ThreeJs](https://threejs.org/) - JavaScript 3D library. 
+- [ChartJs](https://chartjs.bootcss.com/) - 为设计和开发人员准备的简单、灵活的 JavaScript 图表工具
+- [VideoJs](https://videojs.com/) - open source HTML5 & Flash video player
 - [jQuery插件库](http://www.jq22.com/) - 较丰富的jquery插件库，但有些插件框架需要付费充积分下载，喜欢就支持
+- [JQuery-lazyload](https://appelsiini.net/projects/lazyload/) - JQuery图片懒加载扩展插件
 - [JavaScript 资源大全中文版](https://github.com/jobbole/awesome-javascript-cn) - JS资源大全，茶余饭后翻阅一下
 - [JS数据可视化库](https://mp.weixin.qq.com/s/jdPgWwSEVTX06zJvXlsmOg) - 前端之巅公众号小编吐血整理, 非常全面，赞一波👍
 
 <h3 id="api">API</h3>
 
-- [API · 小程序](https://developers.weixin.qq.com/miniprogram/dev/)
-- [jQuery API 中文文档 | 在线手册](http://jquery.cuishifeng.cn/)
-- [Zepto | 中文版](http://www.css88.com/doc/zeptojs_api/#)
-- [Vue](https://cn.vuejs.org/v2/guide/)
-- [Vim实操教程](https://github.com/dofy/learn-vim)
-- [TypeScript | 中文手册](https://typescript.bootcss.com/)
-- [Markdown 入门语法参考](http://xianbai.me/learn-md/index.html)
-- [Lodash | 中文文档](https://www.lodashjs.com/docs/4.17.5.html)
+- [API · 微信小程序](https://developers.weixin.qq.com/miniprogram/dev/) - Wechat App Api.
+- [Vue](https://cn.vuejs.org/v2/guide/) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [React-native](https://facebook.github.io/react-native/) - A framework for building native apps with React.
+- [Angular](https://angularjs.org/) - HTML enhanced for web apps!
+- [jQuery](http://jquery.cuishifeng.cn/) - 📙 中文文档 | 在线手册
+- [Zepto](http://www.css88.com/doc/zeptojs_api/#) - 📙中文版文档
+- [Vim](https://github.com/dofy/learn-vim) - 🛠 实操教程
+- [TypeScript](https://typescript.bootcss.com/) - 📙 中文手册
+- [Markdown](http://xianbai.me/learn-md/index.html) - 📙 入门语法参考
+- [Lodash](https://www.lodashjs.com/docs/4.17.5.html) - 📙 语法文档
 
 <h3 id="vue">Vue</h3>
 
@@ -72,6 +85,8 @@
 - [Vuex](https://vuex.vuejs.org) - 状态管理器
 - [Vue Router](https://router.vuejs.org) - 路由管理器
 - [Vue-Cli](https://cli.vuejs.org/) - 项目搭建脚手架
+- [Vue-Devtools](https://github.com/vuejs/vue-devtools) - Vue开发调试插件
+- [VuePress](https://vuepress.vuejs.org/) - 基于Vue的极简静态站点生成器
 - UI Framework For Vue :
 	- [Element](http://element-cn.eleme.io) - 饿了么前端开源UI框架，基于Vue2.0的PC桌面组件库。 👉 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 	- [IView](https://www.iviewui.com/) - 主要应用于PC中后台产品，
@@ -80,8 +95,17 @@
 	- [Vue-Strap](http://yuche.github.io/vue-strap/) - Vue + Bootstrap, 有点想念JQuery了
 	- [Cube-UI](https://didi.github.io/cube-ui/#/zh-CN) - 基于 Vue.js 实现的移动端组件库
 	
-<h3 id="wxmini">微信小程序</h3>
+<h3 id="wxmini">WeChat Mini Program 微信小程序</h3>
 
+- [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp) 📦 
+- [Wux-Weapp](https://wux-weapp.github.io/wux-weapp-docs/#/) - 微信小程序自定义 UI 组件
+- [Taro](https://github.com/NervJS/taro) - 多端统一开发框架，支持用 React 的开发方式编写一次代码，生成能运行在微信/百度/支付宝/字节跳动小程序、H5、React Native 等的应用
+- [wxParse](https://github.com/icindy/wxParse) - wxParse-微信小程序富文本解析自定义组件，支持HTML及markdown解析
+- [mp-canvas-drawer](https://github.com/kuckboy1994/mp_canvas_drawer) - 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片
+- [WeCOS](https://github.com/tencentyun/wecos) - 微信小程序 COS 瘦身解决方案。比如图片占用大量资源，可以选择此方案避免
+- [WeCOS-UGC-DEMO](https://github.com/tencentyun/wecos-ugc-upload-demo) - 微信小程序用户资源上传 COS 示例
+- [Wafer](https://github.com/tencentyun/wafer-java-server-sdk) - 企业级微信小程序全栈方案
+- [微信小程序踩坑集合](https://github.com/senola/wechat-app-issues) 📦
 - UI组件库 :
 	- [WeUI WXSS](https://github.com/Tencent/weui-wxss) - 腾讯官方UI组件库WeUI的小程序版，提供了跟微信界面风格一致的用户体验。
 	- [iView WeApp](https://weapp.iviewui.com/) - 由TalkingData发布的一款高质量的基于Vue.js组件库，iView weapp是它们的小程序版本。
@@ -89,19 +113,15 @@
 	- [Wux WeApp](https://wux-weapp.github.io/wux-weapp/#/) - 非常不错的微信小程序自定义 UI 组件库，组件比较丰富，值得使用。
 	- [ZanUI WeApp](https://youzan.github.io/vant-weapp/#/intro) - 是有赞移动 Web UI 规范 ZanUI 的小程序现实版本，结合了微信的视觉规范，为用户提供更加统一的使用感受。
 
-- [WeCOS](https://github.com/tencentyun/wecos) - 微信小程序 COS 瘦身解决方案。比如图片占用大量资源，可以选择此方案避免
-- [WeCOS-UGC-DEMO](https://github.com/tencentyun/wecos-ugc-upload-demo) - 微信小程序用户资源上传 COS 示例
- 
-
 <h3 id="node">Node</h3>
 
 - [狼叔：如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly) - 学习ing，Node入门学习指导
-- [一起学习 | Node.js](https://github.com/nswbmw/N-blog)
-- [Node.js | 包教不包会](https://github.com/alsotang/node-lessons)
+- [一起学习 | Node.js](https://github.com/nswbmw/N-blog) 📙
+- [Node.js | 包教不包会](https://github.com/alsotang/node-lessons) 📙
 - [全栈工程师之路 | Node.js](http://i5ting.github.io/nodejs-fullstack/) - Node全栈学习经验总结
 
 
-<h3 id="icon">ICONS</h3>
+<h3 id="icon">Icons</h3>
 
 - [Icons8](https://icons8.com/) - `跨平台` `多语言`图标社区。除了大量免费图标外，还有照片、音乐等资源的分享
 - [阿里矢量图标库](http://www.iconfont.cn/) - 海量图标可按主题查找，解决猿们不懂设计的尴尬
@@ -132,16 +152,6 @@
 - [百度云高速下载器](https://github.com/high-speed-downloader/high-speed-downloader) - 百度云提速下载(取决于你的网速)，摆脱限速尴尬
 - [Emoji](https://github.com/Kenshin/emoji) - Emoji扩展，支持中文语义化
 
-<h3 id='interview'>Interview</h3>
-
-- [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
-- [前端开发面试题大收集，前端面试集锦](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
-- [关于Python的面试题](https://github.com/computeracy/interview_python)
-- [技术面试需要掌握的基础知识整理](https://github.com/computeracy/Interview-Notebook)
-- [2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
-- [会动的简历](https://github.com/jirengu-inc/animating-resume) - 酷炫的求职简历
-- [全屏简历](http://www.flqin.com/) - 全屏滚动，简洁清晰
-
 <h3 id='git'>Git</h3>
 
 - [GUI Clients](https://git-scm.com/downloads/guis/) - 官方推荐图形客户端/Git可视化工具集，免费付费的都有，多平台可选择
@@ -164,7 +174,7 @@
 - [Solo](https://github.com/b3log/solo) - 📋 一款小而美的 Java 博客系统
 - [Halo](https://docs.halo.run) - 📋 Halo 可能是最好的 Java 博客系统。
   
-<h3 id="algorithm">算法</h3>
+<h3 id="algorithm">Algorithm 算法</h3>
 
 - [LeetCode](https://leetcode-cn.com/) - 算法极客社区，包括题库、竞赛等
 - LeetCode Solutions Repos👇 引用大佬们的仓库
@@ -173,8 +183,19 @@
 	- [Solutions-2](https://github.com/soulmachine/leetcode) - by Java / C++
 	- [Solutions-3](https://github.com/liuchuo/LeetCode) - by Java / C++ / Python / Ruby / Swift
 	- [Solutions-4](https://github.com/hanzichi/leetcode) - by Javascript
+- [牛客网](https://www.nowcoder.com) - IT算法题库、在线编程练习、线上课程、竞赛平台、笔面试服务等等
+- [Algorithm-Visualizer](https://algorithm-visualizer.org/) - 算法代码可视化的在线平台
 - [排序算法总结](https://github.com/hustcc/JS-Sorting-Algorithm) - 十大经典排序算法，分别使用JavaScript、Python、Go、Java、PHP实现
 
+<h3 id='interview'>Interview</h3>
+
+- 📋 [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
+- 📋 [前端开发面试题大收集，前端面试集锦](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) 
+- 📋 [关于Python的面试题](https://github.com/computeracy/interview_python)
+- 📋 [技术面试需要掌握的基础知识整理](https://github.com/computeracy/Interview-Notebook)
+- 📋 [2018/2019/校招/春招/秋招/自然语言处理(NLP)/深度学习(Deep Learning)/机器学习(Machine Learning)/C/C++/Python/面试笔记](https://github.com/imhuay/Algorithm_Interview_Notes-Chinese)
+- 📋 [会动的简历](https://github.com/jirengu-inc/animating-resume) - 酷炫的求职简历
+- 📋 [全屏简历](http://www.flqin.com/) - 全屏滚动，简洁清晰
 
 <h3 id="other">其他</h3>
 
@@ -183,6 +204,9 @@
 - [图灵社区](http://www.ituring.com.cn/book/) - 技术书籍及热门文章推荐，可选择购买电子书、纸质书 👊 **技术改变世界 阅读塑造人生**
 - [重构(第二版)](https://files-cdn.cnblogs.com/files/rongfengliang/Refactoring_Second_Edition.pdf) - PDF格式，重构第二版是以JS为示例代码开展的，对前端小伙伴很友好，不过重点是思想思路了，代码洁癖者必看🤔
 
+<h3 id="summary">Summary 小结</h3>
+
+✍️ 好记性不如烂笔头，何况年龄大了记忆力衰退。看过的、玩过的优秀的项目，记录下来十分方便查找，顺便给他们打打广告【假日哪天PV上去】。时刻保持好奇心是学习收集的源动力，望我归来仍是少年！！！
 
 ## Support the project ⭐
 如果你感觉很棒，请 star 或者 fork 仓库支持我，感谢老铁！这有助于我们了解和发展社区。
