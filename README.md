@@ -22,6 +22,7 @@
 - [Interview](#interview)
 - [Git](#git)
 - [Blog](#blog)
+- [Algorithm(算法)](#algorithm)
 - [其他](#other)
 - [小结](#summary)
 - [TODO](#todo)
@@ -154,22 +155,33 @@
 <h3 id="blog">Blog</h3>
 
 - [Hexo](https://hexo.io/zh-cn/) - 快速、简洁且高效的博客框架
-- Hexo Themes 一些比较不错的hexo主题
+- Hexo Themes 👇 一些比较不错的hexo主题
 	- [Hexo-theme-next](https://github.com/iissnan/hexo-theme-next)
 	- [Hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)
 	- [Hexo-theme-tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
 	- [Hexo-theme-new-vno](https://github.com/monniya/hexo-theme-new-vno)
 	- [Hexo-theme-miho](https://github.com/WongMinHo/hexo-theme-miho)
+- [Solo](https://github.com/b3log/solo) - 📋 一款小而美的 Java 博客系统
+- [Halo](https://docs.halo.run) - 📋 Halo 可能是最好的 Java 博客系统。
   
+<h3 id="algorithm">算法</h3>
+
+- [LeetCode](https://leetcode-cn.com/) - 算法极客社区，包括题库、竞赛等
+- LeetCode Solutions Repos👇 引用大佬们的仓库
+	- [Solutions-0](https://github.com/Blankj/awesome-java-leetcode) - by Java
+	- [Solutions-1](https://github.com/soapyigu/LeetCode-Swift) - by Swift
+	- [Solutions-2](https://github.com/soulmachine/leetcode) - by Java / C++
+	- [Solutions-3](https://github.com/liuchuo/LeetCode) - by Java / C++ / Python / Ruby / Swift
+	- [Solutions-4](https://github.com/hanzichi/leetcode) - by Javascript
+- [排序算法总结](https://github.com/hustcc/JS-Sorting-Algorithm) - 十大经典排序算法，分别使用JavaScript、Python、Go、Java、PHP实现
+
 
 <h3 id="other">其他</h3>
 
 - [StackOverflow](https://stackoverflow.com/) - 比较全面、专业的技术hack问题解答，度娘上找不到答案的就来Stack Overflow，CET4应该够用
-- [LeetCode](https://leetcode-cn.com/) - 算法极客社区，包括题库、竞赛等
-- [排序算法总结](https://github.com/hustcc/JS-Sorting-Algorithm) - 十大经典排序算法，分别使用JavaScript、Python、Go、Java、PHP实现
 - [图片登录](https://www.pixelpin.io/) - 登录新玩法 👍 自定义图片密码点实现登录，支持上传图片
 - [图灵社区](http://www.ituring.com.cn/book/) - 技术书籍及热门文章推荐，可选择购买电子书、纸质书 👊 **技术改变世界 阅读塑造人生**
-- [重构第二版](https://files-cdn.cnblogs.com/files/rongfengliang/Refactoring_Second_Edition.pdf) - PDF格式，重构第二版是以JS为示例代码开展的，对前端小伙伴很友好，不过重点是思想思路了，代码洁癖者必看🤔
+- [重构(第二版)](https://files-cdn.cnblogs.com/files/rongfengliang/Refactoring_Second_Edition.pdf) - PDF格式，重构第二版是以JS为示例代码开展的，对前端小伙伴很友好，不过重点是思想思路了，代码洁癖者必看🤔
 
 
 ## Support the project ⭐
