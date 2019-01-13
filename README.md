@@ -115,6 +115,15 @@
 
 <h3 id="node">Node</h3>
 
+- [Node](https://nodejs.org/en/) - Node DOWNLOADS, DOCS...
+- [Axios](https://github.com/axios/axios) - Promise异步处理函数库
+- [Expressjs](https://expressjs.com/) - 基于 Node 的Web应用开发框架
+- [Koa](https://koajs.com/) - [`中文文档`](https://koa.bootcss.com/) 新的 Web框架，支持async函数， 致力于成为 Web 应用和 API 开发领域
+- [Eggjs](https://eggjs.org/) - 阿里基于Koa 的二次开发Web框架
+- [ejs](https://github.com/tj/ejs) - 面向 Node 的嵌入式Html、JS 模板
+- [Log4j](https://github.com/log4js-node/log4js-node) - 面向 Node 的Log4j 日志记录框架
+- [PM2](https://pm2.io/) - Node 进程管理工具，如性能监控、自动重启、负载均衡等
+- [NodeClub](https://cnodejs.org/) - 使用 Node.js 和 MongoDB 开发的社区系统, 界面优雅，功能丰富
 - [狼叔：如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly) - 学习ing，Node入门学习指导
 - [一起学习 | Node.js](https://github.com/nswbmw/N-blog) 📙
 - [Node.js | 包教不包会](https://github.com/alsotang/node-lessons) 📙
@@ -203,6 +212,8 @@
 - [图片登录](https://www.pixelpin.io/) - 登录新玩法 👍 自定义图片密码点实现登录，支持上传图片
 - [图灵社区](http://www.ituring.com.cn/book/) - 技术书籍及热门文章推荐，可选择购买电子书、纸质书 👊 **技术改变世界 阅读塑造人生**
 - [重构(第二版)](https://files-cdn.cnblogs.com/files/rongfengliang/Refactoring_Second_Edition.pdf) - PDF格式，重构第二版是以JS为示例代码开展的，对前端小伙伴很友好，不过重点是思想思路了，代码洁癖者必看🤔
+- [中国程序员容易发音错误的单词
+](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)  📣
 
 <h3 id="summary">Summary 小结</h3>
 
