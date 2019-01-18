@@ -32,9 +32,10 @@
 
 <h3 id="css">CSS</h3>
 
-- [CSS版本支持](https://caniuse.com/) - 检查CSS属性目前支持的所有浏览器版本
+- [Caniuse](https://caniuse.com/) - CSS版本支持 🖖 检查CSS属性目前支持的所有浏览器版本
 - [Bootstrap](https://v2.bootcss.com/index.html) - 简洁、直观、强悍的前端开发框架，让web开发更迅速、简单
-- [学习CSS布局](http://zh.learnlayout.com/) - 网站布局领域的 CSS 基础
+- [LearnLayout](http://zh.learnlayout.com/) - 学习CSS布局 🖖 网站布局领域的 CSS 基础
+- [animate.css](https://daneden.github.io/animate.css/) - 易上手的、跨浏览器的CSS动画库
 - [Sass](https://www.sasscss.com/) - 成熟、稳定、强大的 CSS 扩展语言解析器
 - [Less](http://www.bootcss.com/p/lesscss/) - 一种动态样式语言.LESS将CSS赋予了动态语言的特性
 - [Tailwind CSS](https://www.tailwindcss.cn/) - 一个用于快速UI开发的实用工具集 CSS 框架
@@ -42,11 +43,9 @@
 - [Buttons](http://www.bootcss.com/p/buttons/) - 一个高度可定制的、免费并且开源的按钮 CSS 样式库
 - [Flex-Grammer](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html) - flex语法篇，初步入门到了解
 - [Flex-Examples](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html) - flex实例篇，深入理解到应用
-- [鑫旭博客](https://www.zhangxinxu.com/wordpress/category/css/) - CSS大牛博客，产量惊人
 - [NES.css](https://nostalgic-css.github.io/NES.css/) - NES游戏机专用CSS，满满的任天堂回忆
 - [CSS-Inspiration](https://chokcoco.github.io/CSS-Inspiration/#/./init) - 寻找CSS 的灵感，以分类的形式，展示不同 CSS 属性或者不同的课题使用 CSS 来解决的各种方法。
-
-
+- [CSS Blog](https://www.zhangxinxu.com/wordpress/category/css/) - 鑫旭博客 🖖 CSS大牛博客，产量惊人
 
 <h3 id="js">JS</h3>
 
