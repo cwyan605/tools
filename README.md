@@ -114,7 +114,8 @@
 
 <h3 id="node">Node</h3>
 
-- [Node](https://nodejs.org/en/) - Node DOWNLOADS, DOCS...
+- [Node](https://nodejs.org/en/) - Node官网，下载、api文档...
+- [Nvm](https://github.com/creationix/nvm) - Node版本管理器，bash下玩耍node版本
 - [Axios](https://github.com/axios/axios) - Promise异步处理函数库
 - [Expressjs](https://expressjs.com/) - 基于 Node 的Web应用开发框架
 - [Koa](https://koajs.com/) - [`中文文档`](https://koa.bootcss.com/) 新的 Web框架，支持async函数， 致力于成为 Web 应用和 API 开发领域
