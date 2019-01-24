@@ -214,6 +214,7 @@
 - [重构(第二版)](https://files-cdn.cnblogs.com/files/rongfengliang/Refactoring_Second_Edition.pdf) - PDF格式，重构第二版是以JS为示例代码开展的，对前端小伙伴很友好，不过重点是思想思路了，代码洁癖者必看🤔
 - [中国程序员容易发音错误的单词
 ](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)  📣
+- [IntelliJ Idea 注册码](http://idea.lanyus.com/) - Java编辑器IntelliJ IDEA 过期手动生成注册码,copy 到 Active Code 👏 多谢 lan yu大佬贡献
 
 <h3 id="summary">Summary 小结</h3>
 
