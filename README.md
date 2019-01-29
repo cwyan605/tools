@@ -18,7 +18,7 @@
 - [Node](#node)
 - [Icons](#icon)
 - [Tools / Software](#tools)
-- [Chrome Plugins](#chorme-plugins)
+- [Chrome Plugins](#chrome-plugins)
 - [Git](#git)
 - [Blog](#blog)
 - [Algorithm(算法)](#algorithm)
@@ -139,7 +139,7 @@
 - [IcoMoon](https://icomoon.io/app/#/select) - 支持下载图标字体
 - [Base64-decoder-encoder](https://www.motobit.com/util/base64-decoder-encoder.asp) - 用于将图标转化为base64的字体编译工具 @font-face
 
-<h3 id='tools'>Tools / Software</h3>
+<h3 id='tools'>Tools / Software 🛠 </h3>
 
 - [MacOS微信小助手](https://github.com/computeracy/WeChatPlugin-MacOS) - 装X利器，支持自动回复、拦截撤回消息、免认证登录、多开用户等功能
 - [Mac包管理工具](https://brew.sh/) - `Homebrew`搭建安装环境及工具
@@ -154,8 +154,11 @@
 - [语雀](https://www.yuque.com/) - 2018年04月份 阿里开源的内部在线知识库、团队协作工具。可分公、私两种知识库，支持外链访问
 - [Taskbook](https://github.com/klauscfhq/taskbook) - 任务管理的命令行小工具，命令行极客的首选
 - [新华字典API](https://github.com/pwxcoo/chinese-xinhua) - 新华字典API：中华新华字典数据库。包括歇后语，成语，词语，汉字
+- [IntelliJ Idea 注册码](http://idea.lanyus.com/) - Java编辑器IntelliJ IDEA 过期手动生成注册码,copy 到 Active Code 👏 多谢 lan yu大佬贡献
+- [Imgcook](https://imgcook.taobao.org/) - 🛠 来自阿里的前端UI静态代码自动生成助手 => 专注以各种图像（Sketch/PSD/静态图片），通过智能化手段将各种视觉稿一键生成可维护的 UI 视图代码。目前只提供sketch插件，CSSer 失业的节奏  🤖🤪
 
-<h3 id='chorme-plugins'>Chorme Plugins</h3>
+
+<h3 id='chrome-plugins'>Chrome Plugins</h3>
 
 - [Octotree](https://github.com/computeracy/octotree) - Github项目文件结构显示器
 - [百度云高速下载器](https://github.com/high-speed-downloader/high-speed-downloader) - 百度云提速下载(取决于你的网速)，摆脱限速尴尬
@@ -214,7 +217,6 @@
 - [重构(第二版)](https://files-cdn.cnblogs.com/files/rongfengliang/Refactoring_Second_Edition.pdf) - PDF格式，重构第二版是以JS为示例代码开展的，对前端小伙伴很友好，不过重点是思想思路了，代码洁癖者必看🤔
 - [中国程序员容易发音错误的单词
 ](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)  📣
-- [IntelliJ Idea 注册码](http://idea.lanyus.com/) - Java编辑器IntelliJ IDEA 过期手动生成注册码,copy 到 Active Code 👏 多谢 lan yu大佬贡献
 
 <h3 id="summary">Summary 小结</h3>
 
