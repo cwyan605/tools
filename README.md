@@ -167,6 +167,7 @@
 - [Downloader](https://github.com/high-speed-downloader/high-speed-downloader) - 百度云高速下载器：百度云提速下载(取决于你的网速)，摆脱限速尴尬
 - [Emoji](https://github.com/Kenshin/emoji) - Emoji 扩展，支持中文语义化
 - [Git History](https://githistory.xyz/) - 高效地查看 Github 项目文件更改历史，酷炫噻
+- [Smallpdf](https://chrome.google.com/webstore/detail/smallpdf/ohfgljdgelakfkefopgklcohadegdpjf) - ⚒ word 转 pdf
 
 <h3 id='git'>Git</h3>
 
