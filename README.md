@@ -96,6 +96,8 @@
 	- [Vue-Beauty](https://fe-driver.github.io/vue-beauty/#/components/start) - Vue + Ant-Design的PC端组件库，注意小心Ant-Design的圣诞鬼畜事件 😂
 	- [Vue-Strap](http://yuche.github.io/vue-strap/) - Vue + Bootstrap, 有点想念JQuery了
 	- [Cube-UI](https://didi.github.io/cube-ui/#/zh-CN) - 基于 Vue.js 实现的移动端组件库
+	- [NutUI](https://github.com/jdf2e/nutui) - 京东风格的轻量级移动端Vue组件库
+
 	
 <h3 id="wxmini">WeChat Mini Program 微信小程序</h3>
 
@@ -163,6 +165,8 @@
 
 <h3 id='chrome-plugins'>Chrome Plugins</h3>
 
+
+- [ChromeAppHeroes](https://zhaoolee.gitbooks.io/chrome/content/) - 🛠 Chrome插件英雄榜, 一个优秀的Chrome插件收录集合
 - [Octotree](https://github.com/computeracy/octotree) - Github 项目文件结构显示器
 - [Downloader](https://github.com/high-speed-downloader/high-speed-downloader) - 百度云高速下载器：百度云提速下载(取决于你的网速)，摆脱限速尴尬
 - [Emoji](https://github.com/Kenshin/emoji) - Emoji 扩展，支持中文语义化
@@ -188,6 +192,7 @@
 	- [Hexo-theme-tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak)
 	- [Hexo-theme-new-vno](https://github.com/monniya/hexo-theme-new-vno)
 	- [Hexo-theme-miho](https://github.com/WongMinHo/hexo-theme-miho)
+	- [Hexo-theme-matery](https://github.com/blinkfox/hexo-theme-matery)
 - [Solo](https://github.com/b3log/solo) - 📋 一款小而美的 Java 博客系统
 - [Halo](https://docs.halo.run) - 📋 Halo 可能是最好的 Java 博客系统。
   
