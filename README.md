@@ -161,6 +161,7 @@
 - [新华字典API](https://github.com/pwxcoo/chinese-xinhua) - 新华字典API：中华新华字典数据库。包括歇后语，成语，词语，汉字
 - [IntelliJ Idea 注册码](http://idea.lanyus.com/) - Java编辑器IntelliJ IDEA 过期手动生成注册码,copy 到 Active Code 👏 多谢 lan yu大佬贡献
 - [Imgcook](https://imgcook.taobao.org/) - 🛠 来自阿里的前端UI静态代码自动生成助手 => 专注以各种图像（Sketch/PSD/静态图片），通过智能化手段将各种视觉稿一键生成可维护的 UI 视图代码。目前只提供sketch插件，CSSer 失业的节奏  🤖🤪
+- [Online-Convert](https://image.online-convert.com/convert-to-gif) - 在线文件格式转化，例如视频转动态Gif
 
 
 <h3 id='chrome-plugins'>Chrome Plugins</h3>
