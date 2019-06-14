@@ -10,12 +10,13 @@
 
 <h2 id="catalog">目录</h2>
 
-- [CSS](#css)
+- [Node](#node)
 - [JS](#js)
 - [API](#api)
 - [Vue](#vue)
 - [WeChat Mini Program (微信小程序)](#wxmini)
-- [Node](#node)
+- [Flutter](#flutter)
+- [CSS](#css)
 - [Icons](#icon)
 - [Tools / Software](#tools)
 - [Chrome Plugins](#chrome-plugins)
@@ -29,26 +30,23 @@
 
 ## 正文
 
+<h3 id="node">Node</h3>
 
-<h3 id="css">CSS</h3>
-
-> 语法概念 —> 动态CSS —> CSS框架 —> 灵感博客
-
-- [LearnLayout](http://zh.learnlayout.com/) - 学习CSS布局 🖖 网站布局领域的 CSS 基础
-- [Flex-Grammer](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html) - flex语法篇，初步入门到了解
-- [Flex-Examples](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html) - flex实例篇，深入理解到应用
-- [Caniuse](https://caniuse.com/) - ⚒ CSS版本支持 🖖 检查CSS属性目前支持的所有浏览器版本
-- [Sass](https://www.sasscss.com/) - 成熟、稳定、强大的 CSS 扩展语言解析器
-- [Less](http://www.bootcss.com/p/lesscss/) - 一种动态样式语言.LESS将CSS赋予了动态语言的特性
-- [PostCSS](https://www.postcss.com.cn/) - PostCSS 利用 JavaScript 的强大编程能力对 CSS 代码进行转换
-- [Bootstrap](https://v2.bootcss.com/index.html) - 简洁、直观、强悍的前端开发框架，让web开发更迅速、简单
-- [animate.css](https://daneden.github.io/animate.css/) - 易上手的、跨浏览器的CSS动画库
-- [Tailwind CSS](https://www.tailwindcss.cn/) - 一个用于快速UI开发的实用工具集 CSS 框架
-- [Buttons](http://www.bootcss.com/p/buttons/) - 一个高度可定制的、免费并且开源的按钮 CSS 样式库
-- [NES.css](https://nostalgic-css.github.io/NES.css/) - NES游戏机专用CSS，满满的任天堂回忆
-- [CSS-Inspiration](https://chokcoco.github.io/CSS-Inspiration/#/./init) - 寻找CSS 的灵感，以分类的形式，展示不同 CSS 属性或者不同的课题使用 CSS 来解决的各种方法。
-- [CSS Blog](https://www.zhangxinxu.com/wordpress/category/css/) - 鑫旭博客 🖖 CSS大牛博客，产量惊人
-
+- [Node](https://nodejs.org/en/) - Node官网，下载、api文档...
+- [Nvm](https://github.com/creationix/nvm) - 全称 Node Package Manager, 即 Node 的版本管理器，用来切换本地 Node 版本
+- [Nrm](https://github.com/Pana/nrm) - 全称 NPM Registry Manager，即 npm 的注册地址管理器，用来切换 npm 的 registry地址 , 比如 taobao 、cnpm...
+- [Axios](https://github.com/axios/axios) - Promise异步处理函数库
+- [Expressjs](https://expressjs.com/) - 基于 Node 的Web应用开发框架
+- [Koa](https://koajs.com/) - [`中文文档`](https://koa.bootcss.com/) 新的 Web框架，支持async函数， 致力于成为 Web 应用和 API 开发领域
+- [Eggjs](https://eggjs.org/) - 阿里基于Koa 的二次开发Web框架
+- [ejs](https://github.com/tj/ejs) - 面向 Node 的嵌入式Html、JS 模板
+- [Log4j](https://github.com/log4js-node/log4js-node) - 面向 Node 的Log4j 日志记录框架
+- [PM2](https://pm2.io/) - Node 进程管理工具，如性能监控、自动重启、负载均衡等
+- [NodeClub](https://cnodejs.org/) - 使用 Node.js 和 MongoDB 开发的社区系统, 界面优雅，功能丰富
+- [狼叔：如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly) - 学习ing，Node入门学习指导
+- [一起学习 | Node.js](https://github.com/nswbmw/N-blog) 📙
+- [Node.js | 包教不包会](https://github.com/alsotang/node-lessons) 📙
+- [全栈工程师之路 | Node.js](http://i5ting.github.io/nodejs-fullstack/) - Node全栈学习经验总结
 
 <h3 id="js">JS</h3>
 
@@ -69,14 +67,14 @@
 
 <h3 id="api">API</h3>
 
-- [API · 微信小程序](https://developers.weixin.qq.com/miniprogram/dev/) - Wechat App Api.
+- [API · 微信小程序](https://developers.weixin.qq.com/miniprogram/dev/framework/) - Wechat App Api.
 - [Vue](https://cn.vuejs.org/v2/guide/) - Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [React](https://reactjs.org/) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [React-native](https://facebook.github.io/react-native/) - A framework for building native apps with React.
 - [Angular](https://angularjs.org/) - HTML enhanced for web apps!
 - [jQuery](http://jquery.cuishifeng.cn/) - 📙 中文文档 | 在线手册
-- [Zepto](http://www.css88.com/doc/zeptojs_api/#) - 📙中文版文档
-- [Vim](https://github.com/dofy/learn-vim) - 🛠 实操教程
+- [Zepto](http://www.css88.com/doc/zeptojs_api/#) - 📙 中文版文档
+- [Vim](https://github.com/dofy/learn-vim) - 📙 实操教程
 - [TypeScript](https://typescript.bootcss.com/) - 📙 中文手册
 - [Markdown](http://xianbai.me/learn-md/index.html) - 📙 入门语法参考
 - [Lodash](https://www.lodashjs.com/docs/4.17.5.html) - 📙 语法文档
@@ -117,23 +115,31 @@
 	- [Wux WeApp](https://wux-weapp.github.io/wux-weapp/#/) - 非常不错的微信小程序自定义 UI 组件库，组件比较丰富，值得使用。
 	- [ZanUI WeApp](https://youzan.github.io/vant-weapp/#/intro) - 是有赞移动 Web UI 规范 ZanUI 的小程序现实版本，结合了微信的视觉规范，为用户提供更加统一的使用感受。
 
-<h3 id="node">Node</h3>
+<h3 id="flutter">Flutter</h3>
 
-- [Node](https://nodejs.org/en/) - Node官网，下载、api文档...
-- [Nvm](https://github.com/creationix/nvm) - Node版本管理器，bash下玩耍node版本
-- [Axios](https://github.com/axios/axios) - Promise异步处理函数库
-- [Expressjs](https://expressjs.com/) - 基于 Node 的Web应用开发框架
-- [Koa](https://koajs.com/) - [`中文文档`](https://koa.bootcss.com/) 新的 Web框架，支持async函数， 致力于成为 Web 应用和 API 开发领域
-- [Eggjs](https://eggjs.org/) - 阿里基于Koa 的二次开发Web框架
-- [ejs](https://github.com/tj/ejs) - 面向 Node 的嵌入式Html、JS 模板
-- [Log4j](https://github.com/log4js-node/log4js-node) - 面向 Node 的Log4j 日志记录框架
-- [PM2](https://pm2.io/) - Node 进程管理工具，如性能监控、自动重启、负载均衡等
-- [NodeClub](https://cnodejs.org/) - 使用 Node.js 和 MongoDB 开发的社区系统, 界面优雅，功能丰富
-- [狼叔：如何正确的学习Node.js](https://github.com/i5ting/How-to-learn-node-correctly) - 学习ing，Node入门学习指导
-- [一起学习 | Node.js](https://github.com/nswbmw/N-blog) 📙
-- [Node.js | 包教不包会](https://github.com/alsotang/node-lessons) 📙
-- [全栈工程师之路 | Node.js](http://i5ting.github.io/nodejs-fullstack/) - Node全栈学习经验总结
+- [flutter](https://flutter.dev/) - 官网
+- [plugins](https://github.com/flutter/plugins) - Plugins for Flutter, including FlutterFire, maintained by the Flutter team
+- [awesome-flutter](https://github.com/Solido/awesome-flutter) - You Know About Awesome
+- [flutter-go](https://github.com/alibaba/flutter-go) - Flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档。- from 阿里闲鱼FE Team
 
+<h3 id="css">CSS</h3>
+
+> 语法概念 —> 动态CSS —> CSS框架 —> 灵感博客
+
+- [LearnLayout](http://zh.learnlayout.com/) - 学习CSS布局 🖖 网站布局领域的 CSS 基础
+- [Flex-Grammer](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html) - flex语法篇，初步入门到了解
+- [Flex-Examples](http://www.ruanyifeng.com/blog/2015/07/flex-examples.html) - flex实例篇，深入理解到应用
+- [Caniuse](https://caniuse.com/) - ⚒ CSS版本支持 🖖 检查CSS属性目前支持的所有浏览器版本
+- [Sass](https://www.sasscss.com/) - 成熟、稳定、强大的 CSS 扩展语言解析器
+- [Less](http://www.bootcss.com/p/lesscss/) - 一种动态样式语言.LESS将CSS赋予了动态语言的特性
+- [PostCSS](https://www.postcss.com.cn/) - PostCSS 利用 JavaScript 的强大编程能力对 CSS 代码进行转换
+- [Bootstrap](https://v2.bootcss.com/index.html) - 简洁、直观、强悍的前端开发框架，让web开发更迅速、简单
+- [animate.css](https://daneden.github.io/animate.css/) - 易上手的、跨浏览器的CSS动画库
+- [Tailwind CSS](https://www.tailwindcss.cn/) - 一个用于快速UI开发的实用工具集 CSS 框架
+- [Buttons](http://www.bootcss.com/p/buttons/) - 一个高度可定制的、免费并且开源的按钮 CSS 样式库
+- [NES.css](https://nostalgic-css.github.io/NES.css/) - NES游戏机专用CSS，满满的任天堂回忆
+- [CSS-Inspiration](https://chokcoco.github.io/CSS-Inspiration/#/./init) - 寻找CSS 的灵感，以分类的形式，展示不同 CSS 属性或者不同的课题使用 CSS 来解决的各种方法。
+- [CSS Blog](https://www.zhangxinxu.com/wordpress/category/css/) - 鑫旭博客 🖖 CSS大牛博客，产量惊人
 
 <h3 id="icon">Icons</h3>
 
@@ -155,7 +161,7 @@
 - [iTerm2](https://iterm2.com/) - `MacOS`一款神奇的Mac终端
 - [Oh-my-zsh](https://ohmyz.sh/) - 搭配iTerm2使用，具有很好的主题扩展
 - [MSDN I Tell You](https://msdn.itellyou.cn/) - 资源站点，包含操作系统、部分开发工具等
-- [Luyten](https://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Luyten.shtml) - Jar反编译工具，功能上和 [JD-GUI](http://jd.benow.ca/) 基本一致，可能多一些主题可供选择
+- [Luyten](https://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Luyten.shtml) - Jar反编译工具，功能上和 [JD-GUI](http://jd.benow.ca/) 基本一致。主要不同点：平铺Jar包的所有package、多一些主题可供选择
 - [语雀](https://www.yuque.com/) - 2018年04月份 阿里开源的内部在线知识库、团队协作工具。可分公、私两种知识库，支持外链访问
 - [Taskbook](https://github.com/klauscfhq/taskbook) - 任务管理的命令行小工具，命令行极客的首选
 - [新华字典API](https://github.com/pwxcoo/chinese-xinhua) - 新华字典API：中华新华字典数据库。包括歇后语，成语，词语，汉字
