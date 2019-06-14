@@ -9,7 +9,7 @@
 ---
 
 <h2 id="catalog">目录</h2>
-
+- [Java](#java)
 - [Node](#node)
 - [JS](#js)
 - [API](#api)
@@ -29,6 +29,21 @@
 - [TODO](#todo)
 
 ## 正文
+
+<h3 id="java">Java</h3>
+
+- [Java8 Tutorial](https://github.com/winterbe/java8-tutorial) - Java8 编码指导
+- [JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习指南仓库，涉及到比较全面的 Java 核心知识
+- [Think in Java](https://java.quanke.name/) - Java 编程思想
+- [Java-Design-Patterns](https://github.com/iluwatar/java-design-patterns) - Java 设计模式
+- [Spring Boot](https://github.com/spring-projects/spring-boot) - 快速搭建 Spring 项目的简易框架，上手快 JUST RUN
+- [Spring-Boot-Examples](https://github.com/ityouknow/spring-boot-examples) - Examples : Spring Boot 教程、技术栈示例代码，快速简单上手教程
+- [Spring Quick Start](https://start.spring.io/) - 快速生成 Spring 项目
+- [Tomcat](http://tomcat.apache.org/) -  Web 服务器 
+- [Maven](https://maven.apache.org/) - Java 包管理器
+- [Jetty](https://www.eclipse.org/jetty/) - 一款 Web 服务器，类似Tomcat
+- [RxJava](https://github.com/ReactiveX/RxJava) - Reactive Extensions for the JVM – 一个在Java VM 上使用可观测的序列来组成异步的、基于事件的程序的库.
+- [Luyten](https://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Luyten.shtml) - Jar反编译工具，功能上和 [JD-GUI](http://jd.benow.ca/) 基本一致。主要不同点：平铺Jar包的所有package、多一些主题可供选择
 
 <h3 id="node">Node</h3>
 
@@ -161,7 +176,6 @@
 - [iTerm2](https://iterm2.com/) - `MacOS`一款神奇的Mac终端
 - [Oh-my-zsh](https://ohmyz.sh/) - 搭配iTerm2使用，具有很好的主题扩展
 - [MSDN I Tell You](https://msdn.itellyou.cn/) - 资源站点，包含操作系统、部分开发工具等
-- [Luyten](https://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/Luyten.shtml) - Jar反编译工具，功能上和 [JD-GUI](http://jd.benow.ca/) 基本一致。主要不同点：平铺Jar包的所有package、多一些主题可供选择
 - [语雀](https://www.yuque.com/) - 2018年04月份 阿里开源的内部在线知识库、团队协作工具。可分公、私两种知识库，支持外链访问
 - [Taskbook](https://github.com/klauscfhq/taskbook) - 任务管理的命令行小工具，命令行极客的首选
 - [新华字典API](https://github.com/pwxcoo/chinese-xinhua) - 新华字典API：中华新华字典数据库。包括歇后语，成语，词语，汉字
