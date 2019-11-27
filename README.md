@@ -105,11 +105,11 @@
 - [Vue-Devtools](https://github.com/vuejs/vue-devtools) - Vue开发调试插件
 - [VuePress](https://vuepress.vuejs.org/) - 基于Vue的极简静态站点生成器
 - UI Framework For Vue :
-	- [Ant Design](https://www.antdv.com/docs/vue/introduce/) - 蚂蚁金服AntDesign基于Vue的实现，主要用于研发企业级中后台产品。
+	- [Ant Design](https://www.antdv.com/docs/vue/introduce/) - 蚂蚁金服AntDesign基于Vue的实现，主要用于研发企业级中后台产品。 👉 [preview-pro](https://preview.pro.ant.design/)
 	- [Element](http://element-cn.eleme.io) - 饿了么前端开源UI框架，基于Vue2.0的PC桌面组件库。 👉 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)
 	- [IView](https://www.iviewui.com/) - 主要应用于PC中后台产品，
 	由TalkingData开发维护。 👉 [admin](https://admin.iviewui.com/home)
-	- [Heyui](https://www.heyui.top/) - HeyUI 是一套基于 Vue2.0 的开源 UI 组件库，主要服务于一些中后台产品。
+	- [Heyui](https://www.heyui.top/) - HeyUI 是一套基于 Vue2.0 的开源 UI 组件库，主要服务于一些中后台产品。 👉 [heyui-admin](https://admin.heyui.top/)
 	- [Vue-Beauty](https://fe-driver.github.io/vue-beauty/#/components/start) - Vue + Ant-Design的PC端组件库，注意小心Ant-Design的圣诞鬼畜事件 😂
 	- [Vue-Strap](http://yuche.github.io/vue-strap/) - Vue + Bootstrap, 有点想念JQuery了
 	- [Cube-UI](https://didi.github.io/cube-ui/#/zh-CN) - 基于 Vue.js 实现的移动端组件库
@@ -230,6 +230,7 @@
 	- [Solutions-2](https://github.com/soulmachine/leetcode) - by Java / C++
 	- [Solutions-3](https://github.com/liuchuo/LeetCode) - by Java / C++ / Python / Ruby / Swift
 	- [Solutions-4](https://github.com/hanzichi/leetcode) - by Javascript
+- [CodeWars](https://www.codewars.com/)
 - [牛客网](https://www.nowcoder.com) - IT算法题库、在线编程练习、线上课程、竞赛平台、笔面试服务等等
 - [Algorithm-Visualizer](https://algorithm-visualizer.org/) - 算法代码可视化的在线平台
 - [排序算法总结](https://github.com/hustcc/JS-Sorting-Algorithm) - 十大经典排序算法，分别使用JavaScript、Python、Go、Java、PHP实现
